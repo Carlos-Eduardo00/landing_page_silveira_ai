@@ -96,3 +96,32 @@
 ## 2026-07-22 15:33:30.241Z load
 - url: http://localhost:3000/
 
+## 2026-07-22 17:58:52.938Z load
+- url: http://localhost:3000/
+
+## 2026-07-22 17:58:54.694Z navigate
+- url: http://localhost:3000/
+- via: replaceState
+
+## 2026-07-22 17:59:05.858Z load
+- url: http://192.168.18.223:3000/
+
+## 2026-07-22 17:59:06.500Z navigate
+- url: http://192.168.18.223:3000/
+- via: replaceState
+
+## 2026-07-22 17:59:24.035Z click
+- element: {"tag":"button","role":null,"ariaLabel":null,"name":null,"type":"button","id":"radix-:r8:","placeholder":null,"label":null,"value":null,"valueLength":0,"text":"Qual o investimento necessário?"}
+
+## 2026-07-22 17:59:26.275Z click
+- element: {"tag":"button","role":null,"ariaLabel":null,"name":null,"type":"button","id":"radix-:r8:","placeholder":null,"label":null,"value":null,"valueLength":0,"text":"Qual o investimento necessário?"}
+
+## 2026-07-22 17:59:26.835Z click
+- element: {"tag":"button","role":null,"ariaLabel":null,"name":null,"type":"button","id":"radix-:r6:","placeholder":null,"label":null,"value":null,"valueLength":0,"text":"E se o WhatsApp mudar as regras?"}
+
+## 2026-07-22 17:59:30.243Z click
+- element: {"tag":"button","role":null,"ariaLabel":null,"name":null,"type":"button","id":"radix-:r4:","placeholder":null,"label":null,"value":null,"valueLength":0,"text":"Quanto tempo leva para implementar?"}
+
+## 2026-07-22 17:59:32.603Z click
+- element: {"tag":"button","role":null,"ariaLabel":null,"name":null,"type":"button","id":"radix-:r2:","placeholder":null,"label":null,"value":null,"valueLength":0,"text":"E se o agente não souber responder algo?"}
+
