@@ -360,6 +360,7 @@ logger.error = (msg, options) => {
 }
 
 export default defineConfig({
+	base: "/landing_page_silveira_ai/",
 	optimizeDeps: {
 		include: allDeps,
 	},
